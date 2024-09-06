@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # flutter_new_todo
 
 A new Flutter project.
@@ -17,4 +17,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # Flutter_Learning
->>>>>>> d13f5bbf3f6842522736aafa6778e34cb9449f11
