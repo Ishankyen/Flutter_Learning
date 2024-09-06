@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
         children: [
           Todo(
             title: "First Todo",
-            desc: "First Description",
+            desc: "First Description for the constructor",
           ),
         ],
       ),
